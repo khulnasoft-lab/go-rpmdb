@@ -5,7 +5,7 @@ import (
 	"log"
 
 	multierror "github.com/hashicorp/go-multierror"
-	rpmdb "github.com/knqyf263/go-rpmdb/pkg"
+	rpmdb "github.com/khulnasoft-lab/go-rpmdb/pkg"
 
 	_ "github.com/glebarez/go-sqlite"
 )
